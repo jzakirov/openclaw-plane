@@ -1,7 +1,7 @@
 ---
 name: plane
-version: 0.1.0
-description: "Plane.so: Create, update, and manage issues, projects, states, labels, and pages. Use when the user wants to interact with Plane.so — creating issues, listing tasks, updating status, managing labels, or any project-management workflow."
+version: 0.1.2
+description: "Manage projects and work items using the `plane` CLI. Use when the user wants to interact with Plane.so project management: creating work items, listing tasks, updating status, managing labels e.t.c."
 metadata:
   openclaw:
     emoji: "✈️"
