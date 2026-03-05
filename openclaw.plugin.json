@@ -2,7 +2,7 @@
   "id": "plane",
   "name": "Plane",
   "description": "Skills for managing Plane.so projects, issues, states, labels, and pages via the plane CLI.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "skills": ["skills/plane"],
   "configSchema": {
     "type": "object",

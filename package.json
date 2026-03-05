@@ -1,6 +1,6 @@
 {
   "name": "@jzakirov/plane",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "module",
   "description": "Plane.so plugin for OpenClaw. Adds skills for managing issues, projects, states, labels, and pages via the plane CLI.",
   "license": "MIT",
