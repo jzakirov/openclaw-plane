@@ -1,0 +1,19 @@
+{
+  "id": "plane",
+  "name": "Plane",
+  "description": "Skills for managing Plane.so projects, issues, states, labels, and pages via the plane CLI.",
+  "version": "0.1.0",
+  "skills": ["skills/plane"],
+  "install": [
+    {
+      "id": "uv",
+      "label": "Install plane-cli via uv (recommended)",
+      "command": "uv tool install plane-cli"
+    },
+    {
+      "id": "pip",
+      "label": "Install plane-cli via pip",
+      "command": "pip install plane-cli"
+    }
+  ]
+}
